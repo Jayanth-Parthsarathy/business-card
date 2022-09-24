@@ -1,1 +1,1 @@
-A Basic Bare-bones Business Cars
+A Basic bare-bones Business Card
